@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>LESS Flexbox Mixins Demo Page.</title>
+    <meta name="viewport" content="width=device-width" />
+	<link rel="stylesheet/less" type="text/css" href="mobile-toggle.less" />
+	<script type="text/javascript">
+    less = {
+        env: "development", // or "production"
+        async: false,       // load imports async
+        fileAsync: false,   // load imports async when in a page under
+                            // a file protocol
+        poll: 1000,         // when in watch mode, time in ms between polls
+        functions: {},      // user functions, keyed by name
+        dumpLineNumbers: "comments", // or "mediaQuery" or "all"
+        relativeUrls: false,// whether to adjust url's to be relative
+                            // if false, url's are already relative to the
+                            // entry less file
+        rootpath: ":/a.com/"// a path to add on to the start of every url
+                            //resource
+    };
+</script>
+
+	<script src="https://dl.dropboxusercontent.com/u/19549592/less-1.7.3.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script type='application/javascript' src='https://dl.dropboxusercontent.com/u/19549592/akselkreis-mobile-toggle/js/fastclick.js'></script>
+    <script src="mobile-toggle.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('ul.menu').mobileToggle();
+        });
+
+        $(function() {
+            FastClick.attach(document.body);
+        });
+    </script>
+</head>
+<body class="demo">
+	<div class="wrapper">
+        <ul class="menu">
+        <li><a href="#">Item 1</a></li>
+        <li><a href="#">Item 2</a></li>
+        <li><a href="#">Item 3</a>
+            <ul>
+                <li><a href="#">Sub Item 1</a></li>
+                <li><a href="#">Sub Item 2</a>
+                <ul>
+                    <li><a href="#">3rd Level Item 1</a></li>
+                    <li><a href="#">3rd Level Item 2</a></li>
+                    <li><a href="#">3rd Level Item 3</a></li>
+                    <li><a href="#">3rd Level Item 4</a>
+
+                    <ul>
+                        <li><a href="#">4th Level Menu Item 1</a></li>
+                        <li><a href="#">4th Level Menu Item 2</a></li>
+                        <li><a href="#">4th Level Menu Item 3</a></li>
+                    </ul>
+
+                    </li>
+                </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+           <a href="#">Item 4</a>
+        </li>
+        </ul>
+	</div>
+</body>
+</html>

@@ -1,0 +1,679 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hide",
+				"hide_text"
+			],
+			[
+				"show",
+				"show_text"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"mast",
+				"masthead_height"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"hover",
+				"hover-color"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"no",
+				"no_project_blocks"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"nav",
+				"navbar-height"
+			],
+			[
+				"window",
+				"window_height"
+			],
+			[
+				"screen-sm",
+				"screen-sm"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"scroll",
+				"scroll_top"
+			],
+			[
+				"scro",
+				"scroll_top"
+			],
+			[
+				"video",
+				"video_1_bottom"
+			],
+			[
+				"vi",
+				"video_1_bottom"
+			],
+			[
+				"video_1",
+				"video_1_top"
+			],
+			[
+				"field_vi",
+				"field_vimeo_url"
+			],
+			[
+				"strr",
+				"str_replace"
+			],
+			[
+				"ini",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"view-",
+				"view-series"
+			],
+			[
+				"header",
+				"header_height"
+			],
+			[
+				"scoll",
+				"scrollTop"
+			],
+			[
+				"jump",
+				"jump_link"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"row",
+				"row_count"
+			],
+			[
+				"class",
+				"class_count"
+			],
+			[
+				"col",
+				"col_count"
+			],
+			[
+				"td",
+				"td_class"
+			],
+			[
+				"row_",
+				"row_class_label"
+			],
+			[
+				"relate",
+				"related_products"
+			],
+			[
+				"default",
+				"default_value"
+			],
+			[
+				"selected",
+				"selected_size"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"related",
+				"relatedHeight"
+			],
+			[
+				"featu",
+				"featureHeight"
+			],
+			[
+				"project",
+				"project_details"
+			],
+			[
+				"single",
+				"single_image_offset"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"direction",
+				"direction_nav"
+			],
+			[
+				"safe",
+				"safe_value"
+			],
+			[
+				"parallax",
+				"parallax_content"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"show_",
+				"show_large_menu"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"att",
+				"attach_top_header"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/aces/sites/all/themes/ibecbootstrap/js/script.js",
+		"/Applications/MAMP/htdocs/aces/sites/all/themes/ibecbootstrap/templates/page--user.tpl.php",
+		"/Applications/MAMP/htdocs/aces/sites/all/themes/ibecbootstrap/templates/page.tpl.php",
+		"/Users/mattsmith/Documents/BitBucket.org GIT Repositories/ibec-drupal-bootstrap-theme/templates/page.tpl.php",
+		"/Applications/MAMP/htdocs/aces/sftp-config.json",
+		"/Applications/MAMP/htdocs/aces/sites/all/themes/ibecbootstrap/.gitignore",
+		"/Users/mattsmith/Documents/BitBucket.org GIT Repositories/ibec-drupal-installation-profile/ibeccreative.info",
+		"/Users/mattsmith/Documents/BitBucket.org GIT Repositories/ibec-drupal-installation-profile/ibeccreative.install",
+		"/Users/mattsmith/Documents/BitBucket.org GIT Repositories/ibec-drupal-installation-profile/ibeccreative.profile",
+		"/Applications/MAMP/htdocs/drupal_dev_site/package.json",
+		"/Applications/MAMP/htdocs/drupal_dev_site/Gruntfile.js",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/base.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/structure/tables.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/node--recipe.tpl.php",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/variables.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/header-footer.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/content-types/spirits-finder.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/structure/typography.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/content-types/recipes.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/content-types/products.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/content-types/home.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/images/throbber-green.gif",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/js/plugins.js",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/js/script.js",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/views-view-field--field-sale-price.tpl.php",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/views-view-field--field-savings.tpl.php",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/views-view-field--field-retail-price.tpl.php",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/node--product.tpl.php",
+		"/Users/mattsmith/Desktop/product-import.txt",
+		"/Users/mattsmith/Desktop/store-import.txt",
+		"/Users/mattsmith/Desktop/Add-products-to-store.txt",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/page.tpl.php",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/template.php",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/views-view-table--promotions--page-1.tpl.php",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/ibecbootstrap.info",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/node.tpl.php",
+		"/Applications/MAMP/htdocs/aLight/themes/alight/templates/node.tpl.php",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/node--store.tpl.php",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/templates/node--portfolio_video.tpl.php",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/template.php",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/central.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/structure/tableit.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/views-view--spirits-finder--page.tpl.php",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/framework/grid.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/mixins.less",
+		"/Users/mattsmith/Library/Caches/Cleanup At Startup/Transmit/141CE948-AFF5-4A1F-B63A-F67B2818FDC0/grid.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/views-view-field--spirits-finder--page--field-savings.tpl.php",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/views-view-field--spirits-finder--page--field-sale-price.tpl.php",
+		"/Users/mattsmith/Dropbox/Public/front-end-back-end.html",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/content-types/age-verification.less",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/views-view-field--spirits-finder--page--field-retail-price.tpl.php",
+		"/Users/mattsmith/Desktop/PST-age-verification.html",
+		"/Applications/MAMP/htdocs/pinestate/Gruntfile.js",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/ie8.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/template.php",
+		"/opt/PalmSDK/0.1/share/refcode/framework/enyo/1.0/support/docs/sdk/dev-guide/enyo/tutorial/tutorial1.html",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/less/content-types/interior.less",
+		"/Users/mattsmith/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mattsmith/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/pinestate/sites/all/themes/ibecbootstrap/templates/html.tpl.php",
+		"/Users/mattsmith/Documents/BitBucket.org GIT Repositories/ibec-drupal-gruntfiles/package.json",
+		"/Users/mattsmith/Documents/BitBucket.org GIT Repositories/ibec-drupal-gruntfiles/Gruntfile.js",
+		"/Applications/MAMP/htdocs/aLight/themes/alight/template.php",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/templates/node--general_interior_page.tpl.php",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/templates/node--studio.tpl.php",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/templates/node--home_page.tpl.php",
+		"/Applications/MAMP/htdocs/pinestate/sftp-config.json",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/structure/container.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/mixins.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/framework/grid.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/structure/twentytwenty.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/content-types/general.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/js/script.js",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/structure/flexslider.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/central.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/js/plugins.js",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/header-footer.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/content-types/projects.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/structure/typography.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/base.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/variables.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/structure/tables.less",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/templates/page.tpl.php",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/less/content-types/home.less",
+		"/Applications/MAMP/htdocs/aLight/themes/alight/less/structure/flexslider.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/js/script.js",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/css/icons.data.png.css",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/image_sizing.md",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/oakpoint.info",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/css/icons.data.svg.css",
+		"/Applications/MAMP/htdocs/Oak Point/sites/all/themes/oakpoint/templates/html.tpl.php",
+		"/Users/mattsmith/Documents/BitBucket.org GIT Repositories/ibec-bootstrap/less/base.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/js/plugins.js",
+		"/Users/mattsmith/Desktop/test.html",
+		"/Applications/MAMP/htdocs/Oak Point/sftp-config.json",
+		"/Applications/MAMP/htdocs/Oak Point/Gruntfile.js",
+		"/Applications/MAMP/htdocs/Oak Point/package.json",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/central.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/templates/node--webform.tpl.php",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/mixins.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/variables.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/js/process.js",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/templates/node--about_us.tpl.php",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/content-types/home.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/templates/node.tpl.php",
+		"/Users/mattsmith/Downloads/superscrollorama-master/index.html",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/templates/node--process.tpl.php",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/structure/flexslider.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/header-footer.less",
+		"/Users/mattsmith/Downloads/superscrollorama-master/css/style.css",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/content-types/interior.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/content-types/blog.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/content-types/process.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/base.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/templates/maintenance-page.tpl.php",
+		"/Applications/MAMP/htdocs/strongpaw/strongpaw.sublime-project",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/fonts/icomoon.svg",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/templates/node--general.tpl.php",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/framework/grid.less",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/modules/strongpaw/strongpaw.module",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/templates/node--blog-post.tpl.php",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/less/structure/touch.less",
+		"/Applications/MAMP/htdocs/bluepoint-financial/sites/all/themes/bluepoint/js/script.js",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/templates/comment.tpl.php",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/templates/page.tpl.php",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/templates/comment-wrapper.tpl.php",
+		"/Applications/MAMP/htdocs/strongpaw/sftp-config.json",
+		"/Applications/MAMP/htdocs/strongpaw/sites/all/themes/strongpaw/strongpaw.info"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"s",
+			"+",
+			"90px",
+			"width: 90px",
+			"exp-s",
+			"touch",
+			"modernizr",
+			"touch",
+			"map",
+			"block-views-dbfdec224487706c95b0c6ca0064eb9a",
+			"exp",
+			"title",
+			"caption",
+			"view-store-block-product-detail",
+			"messages",
+			"#menu-wrapper",
+			"select",
+			"50%",
+			"active",
+			"views-field",
+			"acti",
+			"td",
+			"active",
+			"gray",
+			"active",
+			"20%",
+			"block-2",
+			"logo",
+			"mediamatch",
+			"#block-menu-block-2",
+			"#block-menu-block-3",
+			"#block-menu-block-2",
+			"#menu-wrapper #block-menu-block-2",
+			"path",
+			"enquire",
+			"[ ]*[|]",
+			"unset",
+			"img",
+			"n",
+			"eventType=(touch)",
+			"eventType = (touch)",
+			"#block-views-exp-projects-page",
+			"block-views-exp-projects-page",
+			"strongpaw",
+			"pinned",
+			"title-wrapper",
+			"title-wrapp",
+			"pinned",
+			"thumb",
+			"block-views-gallery-thumbnails-block-1",
+			"offset",
+			"pin-frame",
+			"onpin",
+			"tweenLite",
+			"add new",
+			"print t('Add new comment');",
+			"bootstrap",
+			"eNo1jbEKgzAYhAtu/1PcA9jQmNrSbEGCDomxiXYv0sHBdKlQ375R6E0fx8ed9t55iYqjKmB0K8FR\ngHMKfaozIruGu5Eo2YndLsfxPc9LnD4rDcHDhRyq1m2f46GTbp8jqsY7q3dfCOqskjgnLqlrus3K\nXdjWBONXmCkuXzKqrSVekfYjyg7//ACdzCPQ",
+			"768",
+			"product_link",
+			"quantity",
+			"$quantity",
+			"66",
+			"quantity",
+			"cases",
+			"order inform",
+			"radius",
+			".border-rad",
+			"second",
+			"third",
+			"section",
+			"second",
+			"third",
+			"../",
+			"administration",
+			";\n",
+			"strong",
+			"h1.title",
+			"bread",
+			"node-type-product-elem",
+			"series",
+			"product-thumbnail",
+			"td_count",
+			"sticky",
+			"page-node-100",
+			".header-right",
+			"last",
+			".last",
+			"page-products",
+			"#featured",
+			"form",
+			";\n",
+			"placeh",
+			"placeholder",
+			"compare",
+			"1024",
+			"compare",
+			"throttle",
+			"select",
+			"#block",
+			"select",
+			"mountin",
+			"view-inspiration_images",
+			"view-id-inspiration_images",
+			".select",
+			"mounting",
+			"select",
+			"view-in",
+			"item_selected",
+			";\n",
+			"from",
+			"select",
+			"form",
+			"exposed",
+			"feature",
+			"elements",
+			"other",
+			".product_choice",
+			"product_c",
+			"inspiration-direction-nav",
+			"compare",
+			"flex",
+			"favorites",
+			"checked",
+			"active",
+			"general",
+			"general-page",
+			"compare"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"|",
+			"oakpoint",
+			"",
+			"alight"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 116.0
+	},
+	"project": "mobile-toggle.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
