@@ -1,16 +1,16 @@
 // mobileToggle.js: It's a toggle switch for a mobile menu
 // MIT license http://www.opensource.org/licenses/mit-license.php/
 // @author Matthew A. K. Smith http://www.akselkreismedia.com
+(function( $ ){
 
- (function( $ ){
+	$.fn.mobileToggle = function() {
 
-  $.fn.mobileToggle = function() {
+		// Todo - Add class to attach the menu stuff to as an option for the plugin.
+		// Todo - Add animated icon types as options for the plugin - Hamburger and Arrow to start.
 
-  	// Todo - Add class to attach the menu stuff to as an option for the plugin.
-  	// Todo - Add animated icon types as options for the plugin - Hamburger and Arrow to start.
-
-  	// General Vars
-		var mainMenu				=		'.'+this.attr('class'),
+		// General Vars
+		var container 			= 	this,
+				mainMenu				=		'.'+this.attr('class'),
 				wrapperName			=		'menu-wrapper',
 				wrapperClass		= 	'.'+wrapperName,
 				toggleName 			= 	'mobile-menu-toggle',
@@ -29,7 +29,8 @@
 		$(toggleClass).click(function(e){
 			e.preventDefault();
 			$(toggleClass).toggleClass('active');
-			$('.menu').toggleClass('active');
+			$(container).toggleClass('active');
+			console.log(this);
 		});
 
 		//Add toggle to all nested UL's
@@ -42,6 +43,6 @@
 			$(this+' + ul').toggleClass('active');
 		});
 
-  };
+	};
 
 })( jQuery );
