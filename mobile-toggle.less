@@ -30,7 +30,7 @@
 	position: relative;
 }
 
-a.toggle{
+.icon-hamburger{
 	.bar{
 		height: 2px;
 		width: 100%;
@@ -99,8 +99,23 @@ a.toggle{
 			display: block;
 			border-bottom: 1px solid @color;
 			text-decoration: none;
-		
-			&.sub-menu-toggle{
+		}
+	}
+
+	&.active{
+		display: block;
+	}
+
+	ul{
+		display: none;
+		margin: 0;
+		padding:0;
+	}
+}
+
+}
+
+.sub-menu-toggle{
 				display: block;
 				float: right;
 				position:absolute;
@@ -168,18 +183,3 @@ a.toggle{
 
 				}
 			}
-		}
-	}
-
-	&.active{
-		display: block;
-	}
-
-	ul{
-		display: none;
-		margin: 0;
-		padding:0;
-	}
-}
-
-}

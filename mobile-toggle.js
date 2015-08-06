@@ -10,31 +10,35 @@
 
 		// General Vars
 		var container 			= 	this,
-				mainMenu				=		'.'+this.attr('class'),
-				wrapperName			=		'menu-wrapper',
-				wrapperClass		= 	'.'+wrapperName,
-				toggleName 			= 	'mobile-menu-toggle',
-				toggleClass			= 	'.'+toggleName,
-				subToggleName		=		'sub-menu-toggle',
-				subToggleClass	= 	'.'+subToggleName;
+			mainMenu			=	'.'+this.attr('class'),
+			wrapperName			=	'menu-wrapper',
+			wrapperClass		= 	'.'+wrapperName,
+			toggleName 			= 	'mobile-menu-toggle',
+			toggleClass			= 	'.'+toggleName,
+			subToggleName		=	'sub-menu-toggle',
+			subToggleClass		= 	'.'+subToggleName;
 
 		// Vars for menu Toggles
-		var hamburgerMarkup		=		'<div class="bar top"></div><div class="bar middle"></div><div class="bar bottom"></div>';
-				arrowMarkup		=		'<div class="bar left"></div><div class="bar center"></div><div class="bar right"></div>';
+		var arrowClass			=		'arrow';
+			hamburgerClass		=		'hamburger';
+			plusClass			=		'plus';
+			circleClass			=		'circle';
+			triangleClsas		=		'triangle';
+			buttonMarkup		=		'<div class="bar top"></div><div class="bar middle"></div><div class="bar bottom"></div>';
 
 		$(this).wrap('<div class="'+wrapperName+'"></div>');
-		$('<a class="'+toggleName+' toggle">'+hamburgerMarkup+'</a>').prependTo(wrapperClass);
+		$('<a class="'+toggleName+' toggle">'+buttonMarkup+'</a>').prependTo(wrapperClass);
 
 		// Toggle Main Menu On/Off
 		$(toggleClass).click(function(e){
 			e.preventDefault();
 			$(toggleClass).toggleClass('active');
 			$(container).toggleClass('active');
-			console.log(this);
+			//console.log(this);
 		});
 
 		//Add toggle to all nested UL's
-		$('<a class="'+subToggleName+' toggle">'+hamburgerMarkup+'</a>').insertBefore('ul ul');
+		$('<a class="'+subToggleName+' toggle">'+buttonMarkup+'</a>').insertBefore('ul ul');
 
 		// Toggle Sub Menu(s) On/Off
 		$(subToggleClass).click(function(e){
