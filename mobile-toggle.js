@@ -3,31 +3,33 @@
 // @author Matthew A. K. Smith http://www.akselkreismedia.com
 (function( $ ){
 
-	$.fn.mobileToggle = function() {
+	$.fn.mobileToggle = function(options) {
 
 		// Todo - Add class to attach the menu stuff to as an option for the plugin.
 		// Todo - Add animated icon types as options for the plugin - Hamburger and Arrow to start.
 
 		// General Vars
-		var container 			= 	this,
-			mainMenu			=	'.'+this.attr('class'),
-			wrapperName			=	'menu-wrapper',
-			wrapperClass		= 	'.'+wrapperName,
-			toggleName 			= 	'mobile-menu-toggle',
-			toggleClass			= 	'.'+toggleName,
-			subToggleName		=	'sub-menu-toggle',
-			subToggleClass		= 	'.'+subToggleName;
+		var settings = $.extend({
+			wrapperName : 'menu-wrapper',
+			toggleName : 'mobile-menu-toggle',
+			subToggleName : 'sub-menu-toggle'
+		}, options);
 
 		// Vars for menu Toggles
-		var arrowClass			=		'arrow';
+		var container 			=		this,
+			mainMenu			=		'.'+this.attr('class'),
+			wrapperClass 		= 		'.'+settings.wrapperName,
+			toggleClass 		= 		'.'+settings.toggleName,
+			subToggleClass		= 		'.'+settings.subToggleName,
+			arrowClass			=		'arrow';
 			hamburgerClass		=		'hamburger';
 			plusClass			=		'plus';
 			circleClass			=		'circle';
-			triangleClsas		=		'triangle';
+			triangleClass		=		'triangle';
 			buttonMarkup		=		'<div class="bar top"></div><div class="bar middle"></div><div class="bar bottom"></div>';
 
-		$(this).wrap('<div class="'+wrapperName+'"></div>');
-		$('<a class="'+toggleName+' toggle">'+buttonMarkup+'</a>').prependTo(wrapperClass);
+		$(this).wrap('<div class="'+settings.wrapperName+'"></div>');
+		$('<a class="icon-hamburger '+settings.toggleName+' toggle">'+buttonMarkup+'</a>').prependTo(wrapperClass);
 
 		// Toggle Main Menu On/Off
 		$(toggleClass).click(function(e){
@@ -38,7 +40,7 @@
 		});
 
 		//Add toggle to all nested UL's
-		$('<a class="'+subToggleName+' toggle">'+buttonMarkup+'</a>').insertBefore('ul ul');
+		$('<a class="icon-hamburger '+settings.subToggleName+' toggle">'+buttonMarkup+'</a>').insertBefore('ul ul');
 
 		// Toggle Sub Menu(s) On/Off
 		$(subToggleClass).click(function(e){
