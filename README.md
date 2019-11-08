@@ -1,2 +1,3 @@
-mobileToggle.js
+navisible.js
 ===============
+Mobile Menu Plugin.
